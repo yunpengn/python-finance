@@ -6,6 +6,7 @@ Some programming practices for Python in the finance domain
 
 - Create a new virtual environment for your project `python3 -m venv .env/`
 - Activate the virtual envrionment created by `source .env/bin/activate`
+- Upgrade your pip if needed by `pip3 install --upgrade pip`
 - Install dependency inside the virtual environment by `pip3 install -r requirements.txt`
 
 ## Licence
